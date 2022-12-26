@@ -1,0 +1,57 @@
+Manifest-Version: 1.0
+Built-By: Asus
+Build-Jdk: 17.0.3
+Class-Path: lib/junit-4.13.2.jar lib/hamcrest-core-2.2.jar lib/springfox
+ -swagger2-2.9.2.jar lib/swagger-annotations-1.5.20.jar lib/swagger-mode
+ ls-1.5.20.jar lib/jackson-annotations-2.11.4.jar lib/springfox-spi-2.9.
+ 2.jar lib/springfox-core-2.9.2.jar lib/springfox-schema-2.9.2.jar lib/s
+ pringfox-swagger-common-2.9.2.jar lib/springfox-spring-web-2.9.2.jar li
+ b/guava-20.0.jar lib/classmate-1.5.1.jar lib/slf4j-api-1.7.30.jar lib/s
+ pring-plugin-core-1.2.0.RELEASE.jar lib/spring-beans-5.3.4.jar lib/spri
+ ng-context-5.3.4.jar lib/spring-plugin-metadata-1.2.0.RELEASE.jar lib/m
+ apstruct-1.2.0.Final.jar lib/springfox-swagger-ui-2.9.1.jar lib/spring-
+ cloud-starter-openfeign-3.0.1.jar lib/spring-cloud-starter-3.0.1.jar li
+ b/spring-cloud-context-3.0.1.jar lib/spring-security-rsa-1.0.9.RELEASE.
+ jar lib/bcpkix-jdk15on-1.64.jar lib/bcprov-jdk15on-1.64.jar lib/spring-
+ cloud-openfeign-core-3.0.1.jar lib/feign-form-spring-3.8.0.jar lib/feig
+ n-form-3.8.0.jar lib/commons-fileupload-1.4.jar lib/commons-io-2.2.jar 
+ lib/spring-web-5.3.4.jar lib/spring-cloud-commons-3.0.1.jar lib/spring-
+ security-crypto-5.4.5.jar lib/feign-core-10.10.1.jar lib/feign-slf4j-10
+ .10.1.jar lib/spring-boot-starter-2.4.3.jar lib/spring-boot-starter-log
+ ging-2.4.3.jar lib/logback-classic-1.2.3.jar lib/logback-core-1.2.3.jar
+  lib/log4j-to-slf4j-2.13.3.jar lib/log4j-api-2.13.3.jar lib/jul-to-slf4
+ j-1.7.30.jar lib/jakarta.annotation-api-1.3.5.jar lib/snakeyaml-1.27.ja
+ r lib/jakarta.xml.bind-api-2.3.3.jar lib/jakarta.activation-api-1.2.2.j
+ ar lib/hamcrest-2.2.jar lib/byte-buddy-1.10.20.jar lib/spring-core-5.3.
+ 4.jar lib/spring-jcl-5.3.4.jar lib/spring-boot-starter-data-jpa-2.4.3.j
+ ar lib/spring-boot-starter-aop-2.4.3.jar lib/aspectjweaver-1.9.6.jar li
+ b/spring-boot-starter-jdbc-2.4.3.jar lib/HikariCP-3.4.5.jar lib/spring-
+ jdbc-5.3.4.jar lib/jakarta.transaction-api-1.3.3.jar lib/jakarta.persis
+ tence-api-2.2.3.jar lib/hibernate-core-5.4.28.Final.jar lib/jboss-loggi
+ ng-3.4.1.Final.jar lib/javassist-3.27.0-GA.jar lib/antlr-2.7.7.jar lib/
+ jandex-2.2.3.Final.jar lib/dom4j-2.1.3.jar lib/hibernate-commons-annota
+ tions-5.1.2.Final.jar lib/jaxb-runtime-2.3.3.jar lib/txw2-2.3.3.jar lib
+ /istack-commons-runtime-3.0.11.jar lib/jakarta.activation-1.2.2.jar lib
+ /spring-data-jpa-2.4.5.jar lib/spring-data-commons-2.4.5.jar lib/spring
+ -orm-5.3.4.jar lib/spring-tx-5.3.4.jar lib/spring-aspects-5.3.4.jar lib
+ /spring-boot-starter-security-2.4.3.jar lib/spring-aop-5.3.4.jar lib/sp
+ ring-security-config-5.4.5.jar lib/spring-security-web-5.4.5.jar lib/sp
+ ring-expression-5.3.4.jar lib/spring-boot-starter-web-2.4.3.jar lib/spr
+ ing-boot-starter-json-2.4.3.jar lib/jackson-datatype-jdk8-2.11.4.jar li
+ b/jackson-datatype-jsr310-2.11.4.jar lib/jackson-module-parameter-names
+ -2.11.4.jar lib/spring-boot-starter-tomcat-2.4.3.jar lib/tomcat-embed-c
+ ore-9.0.43.jar lib/jakarta.el-3.0.3.jar lib/tomcat-embed-websocket-9.0.
+ 43.jar lib/spring-webmvc-5.3.4.jar lib/spring-boot-devtools-2.4.3.jar l
+ ib/spring-boot-2.4.3.jar lib/spring-boot-autoconfigure-2.4.3.jar lib/h2
+ -1.4.200.jar lib/spring-security-core-5.4.5.jar lib/lombok-1.18.18.jar 
+ lib/jjwt-0.9.1.jar lib/jackson-databind-2.11.4.jar lib/jackson-core-2.1
+ 1.4.jar
+Implementation-Title: authorizationService
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.cognizant.authorizationService
+Implementation-URL: https://spring.io/projects/spring-boot/authorization
+ Service
+Main-Class: com.cognizant.authorizationService.AuthorizationServiceAppli
+ cation
+Created-By: Maven Integration for Eclipse
+
